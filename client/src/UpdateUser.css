@@ -1,0 +1,8 @@
+.bg3{
+    background-image: url("https://images.pexels.com/photos/36487/above-adventure-aerial-air.jpg?cs=srgb&dl=pexels-bess-hamiti-83687-36487.jpg&fm=jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.box1 {
+    box-shadow: 1px 1px 10px 0px white;
+}

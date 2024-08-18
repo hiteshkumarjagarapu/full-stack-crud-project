@@ -1,0 +1,22 @@
+.bg{
+    background-image: url("https://wallpapercave.com/wp/wp6412485.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-attachment: fixed;
+}
+
+.bg1{
+    
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bt:hover{
+    box-shadow: 1px 1px 1px 0.5px white;
+}

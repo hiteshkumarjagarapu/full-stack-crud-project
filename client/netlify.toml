@@ -3,7 +3,7 @@
   publish = "client/dist"    # Directory where the build output is located
 
 [build.environment]
-  NODE_VERSION = "18.x"      # Optional: specify the Node.js version
+  NODE_VERSION = "16"      # Optional: specify the Node.js version
 
 # Optional: redirects if needed
 [[redirects]]

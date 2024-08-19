@@ -10,6 +10,7 @@ app.use(cors({
 
 
 app.use(express.json())
+//const dbPath = process.env.DATABASE_PATH || path.join(__dirname, 'info.db');
 
 const dbPath= path.join(__dirname, "info.db");
 
